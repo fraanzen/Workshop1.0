@@ -60,7 +60,6 @@ public class CustomerTest {
         testList.removeAtIndex(index);
         Assert.assertEquals(testList.getCustomers().length,2);
 
-
     }
 
 }
